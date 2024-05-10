@@ -1,29 +1,26 @@
-<h1 align="center">Hi 👋, I'm Kartikey verma</h1>
+![MasterHead](https://github.com/Kartikey-verma/Kartikey-verma/blob/b9c9b58b6d00b426c197eecefa41b6f8f2a5ebf9/%40bannr%20final%20linkin.png)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="45" height="45" />, I'm Kartikey verma</h1>
 <h3 align="center">A passionate frontend developer from India, Delhi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikey-verma&label=Profile%20views&color=0e75b6&style=flat" alt="kartikey-verma" /> </p>
+<img align="right" alt="Coding" width="400" style="border-radius: 25px" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikey-verma" alt="kartikey-verma" /></a> </p>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="40" height="40" /> I’m currently studying about **Electronics and communication**
 
-<p align="left"> <a href="https://twitter.com/kartik_codwizrd" target="blank"><img src="https://img.shields.io/twitter/follow/kartik_codwizrd?logo=twitter&style=for-the-badge" alt="kartik_codwizrd" /></a> </p>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="40" height="40" /> I’m currently learning **Cyber security, Python, Embedded**
 
-- 🔭 I’m currently studying about **Electronics and communication**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="40" height="40" /> I’m looking for help with **Guidence and experince**
 
-- 🌱 I’m currently learning **Cyber security, Python, Embedded**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40" height="40" /> All of my projects are available at [https://codexkartikey.xyz/](https://codexkartikey.xyz/)
 
-- 🤝 I’m looking for help with **Guidence and experince**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="40" height="40" /> I regularly write articles on [https://codexkartikey.xyz/blog.html](https://codexkartikey.xyz/blog.html)
 
-- 👨‍💻 All of my projects are available at [https://codexkartikey.xyz/](https://codexkartikey.xyz/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="40" height="40" /> Ask me about **Python**
 
-- 📝 I regularly write articles on [https://codexkartikey.xyz/blog.html](https://codexkartikey.xyz/blog.html)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Lowered%20Flag.png" alt="Open Mailbox with Lowered Flag" width="40" height="40" /> How to reach me **kartikeyvcodewizard@gmail.com**
 
-- 💬 Ask me about **Python**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="40" height="40" /> Know about my experiences [https://codexkartikey.xyz/](https://codexkartikey.xyz/)
 
-- 📫 How to reach me **kartikeyvcodewizard@gmail.com**
-
-- 📄 Know about my experiences [https://codexkartikey.xyz/](https://codexkartikey.xyz/)
-
-- ⚡ Fun fact **I am sleep regularly**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="40" height="40" /> Fun fact **I am sleep regularly**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -42,6 +39,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikey-verma&show_icons=true&locale=en&layout=compact" alt="kartikey-verma" /></p>
 
+<p align="left"> <a href="https://twitter.com/kartik_codwizrd" target="blank"><img src="https://img.shields.io/twitter/follow/kartik_codwizrd?logo=twitter&style=for-the-badge" alt="kartik_codwizrd" /></a> </p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikey-verma&show_icons=true&locale=en" alt="kartikey-verma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikey-verma&" alt="kartikey-verma" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikey-verma&label=Profile%20views&color=0e75b6&style=flat" alt="kartikey-verma" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikey-verma" alt="kartikey-verma" /></a> </p>
+
