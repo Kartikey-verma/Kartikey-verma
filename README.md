@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Kartikey-verma/Kartikey-verma/blob/b9c9b58b6d00b426c197eecefa41b6f8f2a5ebf9/%40bannr%20final%20linkin.png)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="45" height="45" />, I'm Kartikey verma</h1>
-<h3 align="center">A passionate frontend developer from India, Delhi</h3>
+<h3 align="center">A passionate frontend developer from Delhi, India</h3>
 
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
